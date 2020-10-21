@@ -1,0 +1,3 @@
+module vplt
+
+fn vplt() {}
